@@ -1,6 +1,6 @@
 # Inspirit-AI-ClassifyingTweets
 The aim of the project was to classify tweets sent relating to various natural disasters into categories depending on what type of aid is needed.
-<img src="slide_images/stats.png">
+<img src="slide_images/stats.png" style="width:300px height:600px">
 
 <h3>Some of the challenges we faced were:</h3>
 Language and the way people speak it is constantly changing hence the tone and therefore sarcasm cannot be detected.
